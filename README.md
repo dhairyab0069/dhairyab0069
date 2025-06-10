@@ -8,7 +8,7 @@ Welcome to the curious corner of my GitHub.
 ---
 
 ### 🧠 Who Am I?
-I'm a Computer Science grad from **UBC** and an upcoming Master's Student at **Northeastern University** this fall (Class of 2027), driven by curiosity and caffeinated problem-solving. My work spans **AI**, **image processing**, and, with a knack for applying theory to solve real-world challenges.
+I'm a Computer Science grad from **UBC** , driven by curiosity and caffeinated problem-solving. My work spans **AI**, **image processing**, and, with a knack for applying theory to solve real-world challenges.
 
 ---
 
