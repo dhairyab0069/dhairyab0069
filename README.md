@@ -28,23 +28,6 @@ I'm a Computer Science grad from **UBC** and an upcoming Master's Student at Nor
 - 
 
 ---
-
-### 💬 Ask Me About
-- Real-world AI & ML applications  
-- Academic research workflows and publishing  
-- GRE prep (scored 340 / AWA 5.5)  
-- ADHD-focused productivity systems  
-- Making Béarnaise sauce go desi 🇫🇷🇮🇳
-
----
-
-### 📫 Let's Connect
-- 📧 [Email me](mailto:your-email@example.com)  
-- 🌐 [Portfolio](https://your-portfolio-link.com)  
-- 📄 [Resume](https://your-resume-link.com)  
-
----
-
 ## 🧑‍💻 Tech Stack
 
 **Languages**  
@@ -85,6 +68,13 @@ Here are a few public projects I've worked on:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Dhairya's GitHub stats"/>
 </p>
+
+---
+
+### 📫 Let's Connect
+- 📧 [Email me](mailto:your-email@example.com)  
+- 🌐 [Portfolio](https://your-portfolio-link.com)  
+- 📄 [Resume](https://your-resume-link.com)  
 
 ---
 
