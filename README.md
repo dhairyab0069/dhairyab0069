@@ -2,13 +2,13 @@
 ## I'm Dhairya Bhatia 👋  
 Welcome to the curious corner of my GitHub.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-link-here)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dhairyanbhatia/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](bhatiadhairya19@gmail.com)
 
 ---
 
 ### 🧠 Who Am I?
-I'm a Computer Science grad from **UBC**, driven by curiosity and caffeinated problem-solving. My work spans **AI**, **image processing**, and **computational biology**, with a knack for applying theory to solve real-world challenges.
+I'm a Computer Science grad from **UBC** and an upcoming Master's Student at Northeastern University this fall (Class of 2027), driven by curiosity and caffeinated problem-solving. My work spans **AI**, **image processing**, and, with a knack for applying theory to solve real-world challenges.
 
 ---
 
