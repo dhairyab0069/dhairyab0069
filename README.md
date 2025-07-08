@@ -8,14 +8,12 @@ Welcome to the curious corner of my GitHub.
 ---
 
 ### 🧠 Who Am I?
-I'm a Computer Science grad from **UBC** , driven by curiosity and caffeinated problem-solving. My work spans **AI**, **image processing**, and, with a knack for applying theory to solve real-world challenges.
+I'm a Computer Science grad from **UBC**, driven by curiosity and caffeinated problem-solving. My work spans **AI**, **image processing**, and, with a knack for applying theory to solve real-world challenges.
 
 ---
 
 ### 🚀 What I’m Working On
-- 
 - Learning to build AI for automation
-- Junior Consulting at **Intella Payments**
 - Gaining Research skills.
 - Architecting image/text data workflows in **Python**, **TypeScript**, and **OpenCV**
 
