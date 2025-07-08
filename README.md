@@ -1,5 +1,5 @@
 ## Hi there 👋
-## I'm Dhairya Bhatia 👋  
+** I'm Dhairya Bhatia**
 Welcome to the curious corner of my GitHub.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dhairyanbhatia/)
