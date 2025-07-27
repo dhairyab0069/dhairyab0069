@@ -63,7 +63,7 @@ Here are a few public projects I've worked on:
 
 ### 📊 GitHub Stats 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Dhairya's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dhairyab0069&show_icons=true&theme=radical" alt="Dhairya's GitHub stats"/>
 </p>
 
 ---
