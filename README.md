@@ -66,12 +66,7 @@ Here are a few public projects I've worked on:
 
 ---
 
-### 📫 Let's Connect
-- 📧 [Email me](mailto:your-email@example.com)  
-- 🌐 [Portfolio](https://your-portfolio-link.com)  
-- 📄 [Resume](https://your-resume-link.com)  
 
----
 
 _Solving one pixel, one tree, and one bug at a time._
   
