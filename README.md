@@ -8,7 +8,7 @@ Welcome to the curious corner of my GitHub.
 ---
 
 ### 🧠 Who Am I?
-I'm a Computer Science grad from **UBC**, driven by curiosity and caffeinated problem-solving. My work spans **AI**, **image processing**, and, with a knack for applying theory to solve real-world challenges.
+I'm a Computer Science graduate from **UBC** with  _B.Sc in Computer Science_, and a _Masters of Science in Computer Science_ Student at **Northeastern University**  driven by curiosity and problem-solving. My work spans **AI**, **image processing**, and, with a knack for applying theory to solve real-world challenges.
 
 ---
 
@@ -24,7 +24,7 @@ I'm a Computer Science grad from **UBC**, driven by curiosity and caffeinated pr
 - Shape analysis, 3D geometry, and surface reconstruction  
 - Quantum computing fundamentals  
 - Architecting image/text data workflows in **Python**, **TypeScript**, and **OpenCV**
-
+- Planning to learn C#, pixel art game development
 ---
 ## 🧑‍💻 Tech Stack
 
