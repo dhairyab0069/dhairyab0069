@@ -15,14 +15,15 @@ I'm a Computer Science grad from **UBC**, driven by curiosity and caffeinated pr
 ### 🚀 What I’m Working On
 - Learning to build AI for automation
 - Gaining Research skills.
-- Architecting image/text data workflows in **Python**, **TypeScript**, and **OpenCV**
+- PDF parsing and OCR pipelines
+
 
 ---
 
 ### 🌱 Exploring Right Now
 - Shape analysis, 3D geometry, and surface reconstruction  
 - Quantum computing fundamentals  
-- PDF parsing and OCR pipelines
+- Architecting image/text data workflows in **Python**, **TypeScript**, and **OpenCV**
 
 ---
 ## 🧑‍💻 Tech Stack
@@ -56,7 +57,6 @@ Here are a few public projects I've worked on:
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [`abiogenesis`](https://github.com/dhairyab0069/abiogenesis) | Simulating the chemical origins of life using Java-based models | Java |
 | [`Coursify-AI`](https://github.com/dhairyab0069/Coursify-AI) | Year-long academic capstone project using AI for educational content generation  | HTML, JavaScript |
 | [`Q-Clicker`](https://github.com/dhairyab0069/Q-Clicker) | A classroom quiz tool enabling live participation via PHP backend | PHP, HTML, JavaScript |
 | [`StreetFighter_DiscussionForum`](https://github.com/dhairyab0069/StreetFighter_DiscussionForum) | A themed discussion board built for COSC360 | HTML, CSS, PHP |
@@ -75,5 +75,5 @@ Here are a few public projects I've worked on:
 
 ---
 
-_Solving one pixel, one molecule, and one problem at a time._
+_Solving one pixel, one tree, and one bug at a time._
   
