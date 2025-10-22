@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 
 **I'm Dhairya Bhatia**</br>
 Welcome to the curious corner of my GitHub.
 
