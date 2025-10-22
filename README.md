@@ -61,7 +61,7 @@ Here are a few public projects I've worked on:
 
 ### 📊 GitHub Stats 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhairyab0069&show_icons=true&theme=radical" alt="Dhairya's GitHub stats"/>
+  ![dhairyab0069's Stats](https://github-readme-stats.vercel.app/api?username=dhairyab0069&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
 </p>
 
 ---
