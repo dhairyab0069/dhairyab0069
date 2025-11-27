@@ -59,11 +59,6 @@ Here are a few public projects I've worked on:
 | [`Q-Clicker`](https://github.com/dhairyab0069/Q-Clicker) | A classroom quiz tool enabling live participation via PHP backend | PHP, HTML, JavaScript |
 | [`StreetFighter_DiscussionForum`](https://github.com/dhairyab0069/StreetFighter_DiscussionForum) | A themed discussion board built for COSC360 | HTML, CSS, PHP |
 
-### 📊 GitHub Stats 
-<p align="left">
-  ![Dhairya's GitHub Stats](https://github-readme-stats-git-masterorg.vercel.app/api?username=dhairyab0069&show_icons=true&theme=vue-dark&hide_border=true&count_private=true)
-
-</p>
 
 ---
 
