@@ -61,7 +61,8 @@ Here are a few public projects I've worked on:
 
 ### 📊 GitHub Stats 
 <p align="left">
-  ![Dhairya's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dhairyab0069&show_icons=true&theme=vue-dark&hide_border=true&count_private=true)
+  ![Dhairya's GitHub Stats](https://github-readme-stats-git-masterorg.vercel.app/api?username=dhairyab0069&show_icons=true&theme=vue-dark&hide_border=true&count_private=true)
+
 </p>
 
 ---
