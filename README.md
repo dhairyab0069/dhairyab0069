@@ -64,5 +64,5 @@ Here are a few public projects I've worked on:
 
 
 
-_Solving one pixel, one tree, and one bug at a time._
+_Transmuting one pixel, traversing one tree, and eliminating one bug at a time._
   
