@@ -26,7 +26,7 @@ I'm a Computer Science graduate from **UBC** with  _B.Sc in Computer Science_, a
 - Shape analysis, 3D geometry, and surface reconstruction  
 - Quantum computing fundamentals  
 - Architecting image/text data workflows in **Python**, **TypeScript**, and **OpenCV**
-- 
+- Computer Architecture
 ---
 ## 🧑‍💻 Tech Stack
 
