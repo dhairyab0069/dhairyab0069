@@ -15,9 +15,9 @@ I'm a Computer Science graduate from **UBC** with  _B.Sc in Computer Science_, a
 ### 🚀 What I’m Working On
 - Learning to build AI for automation
 - Gaining Research skills.
-- PDF parsing and OCR pipelines
-- C#, Game development
+- Game development(C#, Rust)
 - Computer Vision
+- Computer Architecture
 
 
 ---
@@ -25,8 +25,7 @@ I'm a Computer Science graduate from **UBC** with  _B.Sc in Computer Science_, a
 ### 🌱 Exploring Right Now
 - Shape analysis, 3D geometry, and surface reconstruction  
 - Quantum computing fundamentals  
-- Architecting image/text data workflows in **Python**, **TypeScript**, and **OpenCV**
-- Computer Architecture
+
 ---
 ## 🧑‍💻 Tech Stack
 
@@ -37,6 +36,8 @@ I'm a Computer Science graduate from **UBC** with  _B.Sc in Computer Science_, a
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
 
 **Frameworks & Libraries**  
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
