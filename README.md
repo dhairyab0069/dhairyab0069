@@ -1,21 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:FF6EC7&height=200&section=header&text=Dhairya%20Bhatia&fontSize=58&fontColor=ffffff&animation=fadeIn&desc=Gamer%20%C2%B7%20Anime%20Fan%20%C2%B7%20CV%20Researcher&descSize=18&descAlignY=70"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6300FF,100:FF2E97&height=220&section=header&text=Dhairya%20Bhatia&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Research%20%C2%B7%20Game%20Development%20%C2%B7%20Anime%20Fan&descSize=18&descAlignY=72"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/dhairyab0069">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=800&color=FF6EC7&center=true&vCenter=true&width=600&lines=Charging+the+Mega+Buster;Plotting+a+course+to+the+Grand+Line;Morph+Ball+into+the+codebase;Undisputed+Era+of+Computer+Vision;Finisher%3A+ship+it;One+bug+at+a+time"/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=800&color=FF2E97&center=true&vCenter=true&width=600&lines=Charging+the+Mega+Buster;Plotting+a+course+to+the+Grand+Line;Morph+Ball+into+the+codebase;Undisputed+Era+of+Computer+Vision;Finisher%3A+ship+it;One+bug+at+a+time"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://media1.tenor.com/m/Sgp270pLW2QAAAAC/megaman-x-piki.gif" height="120" alt="Mega Man X"/>
-  &nbsp;&nbsp;
-  <img src="https://media1.tenor.com/m/1p733V6DMFQAAAAC/one-piece-pixel.gif" height="120" alt="One Piece"/>
-  &nbsp;&nbsp;
-  <img src="https://media1.tenor.com/m/II63zmSFM9cAAAAC/metroid-crocomire.gif" height="120" alt="Metroid"/>
-  &nbsp;&nbsp;
-  <img src="https://media1.tenor.com/m/hLRKCcMAKDEAAAAC/empel-pixel.gif" height="120" alt="Wrestling"/>
 </p>
 
 ## Hi there 👋 
@@ -23,6 +13,11 @@
 Welcome to the curious corner of my GitHub.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dhairyanbhatia/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bhatiadhairya19@gmail.com)
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/1p733V6DMFQAAAAC/one-piece-pixel.gif" height="130" alt="One Piece"/>
+</p>
+
 ---
 ### 🧠 Who Am I?
 I'm a Computer Science graduate from **UBC** with  _B.Sc in Computer Science_, and a _Masters of Science in Computer Science_ Student at **Northeastern University**  driven by curiosity and problem-solving. My interests spans **AI**, **image processing**, and, with a knack for applying theory to solve real-world challenges.
@@ -33,10 +28,20 @@ I'm a Computer Science graduate from **UBC** with  _B.Sc in Computer Science_, a
 - Game development(C#, Rust)
 - Computer Vision
 - Computer Architecture
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/Sgp270pLW2QAAAAC/megaman-x-piki.gif" height="130" alt="Mega Man X"/>
+</p>
+
 ---
 ### 🌱 Would Love to Explore!
 - Shape analysis, 3D geometry, and surface reconstruction  
 - Quantum computing fundamentals  
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/II63zmSFM9cAAAAC/metroid-crocomire.gif" height="130" alt="Metroid"/>
+</p>
+
 ---
 ## 🧑‍💻 Tech Stack
 **Languages**  
@@ -67,6 +72,14 @@ Here are a few public projects I've worked on:
 | [`Coursify-AI`](https://github.com/dhairyab0069/Coursify-AI) | Year-long academic capstone project using AI for educational content generation  | HTML, JavaScript |
 | [`Q-Clicker`](https://github.com/dhairyab0069/Q-Clicker) | A classroom quiz tool enabling live participation via PHP backend | PHP, HTML, JavaScript |
 | [`StreetFighter_DiscussionForum`](https://github.com/dhairyab0069/StreetFighter_DiscussionForum) | A themed discussion board built for COSC360 | HTML, CSS, PHP |
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/hLRKCcMAKDEAAAAC/empel-pixel.gif" height="130" alt="Wrestling"/>
+</p>
+
 ---
 _Transmuting one pixel, traversing one tree, and eliminating one bug at a time._
-  
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E97,100:6300FF&height=120&section=footer"/>
+</p>
