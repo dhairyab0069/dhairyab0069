@@ -14,37 +14,76 @@ Welcome to the curious corner of my GitHub.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dhairyanbhatia/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bhatiadhairya19@gmail.com)
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/1p733V6DMFQAAAAC/one-piece-pixel.gif" height="130" alt="One Piece"/>
-</p>
-
 ---
+
+<table>
+<tr>
+<td width="68%">
+
 ### 🧠 Who Am I?
+I'm a Computer Science graduate from **UBC** with _B.Sc in Computer Science_, and a _Masters of Science in Computer Science_ Student at **Northeastern University** driven by curiosity and problem-solving. My interests span **AI**, **image processing**, and applying theory to solve real-world challenges.
 
-I'm a Computer Science graduate from **UBC** with  _B.Sc in Computer Science_, and a _Masters of Science in Computer Science_ Student at **Northeastern University**  driven by curiosity and problem-solving. My interests spans **AI**, **image processing**, and, with a knack for applying theory to solve real-world challenges.
+</td>
+<td width="32%" align="center">
+
+<img src="https://media1.tenor.com/m/1p733V6DMFQAAAAC/one-piece-pixel.gif" width="160" alt="One Piece"/>
+
+</td>
+</tr>
+</table>
+
 ---
+
+<table>
+<tr>
+<td width="32%" align="center">
+
+<img src="https://media1.tenor.com/m/Sgp270pLW2QAAAAC/megaman-x-piki.gif" width="160" alt="Mega Man X"/>
+
+</td>
+<td width="68%">
 
 ### 🚀 What I’m Working On
 - Learning to build AI for automation
 - Gaining Research skills.
-- Game development(C#, Rust)
+- Game development (C#, Rust)
 - Computer Vision
 - Computer Architecture
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/Sgp270pLW2QAAAAC/megaman-x-piki.gif" height="130" alt="Mega Man X"/>
-</p>
+</td>
+</tr>
+</table>
 
 ---
+
+<table>
+<tr>
+<td width="68%">
+
 ### 🌱 Would Love to Explore!
-- Shape analysis, 3D geometry, and surface reconstruction  
-- Quantum computing fundamentals  
+- Shape analysis, 3D geometry, and surface reconstruction
+- Quantum computing fundamentals
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/II63zmSFM9cAAAAC/metroid-crocomire.gif" height="130" alt="Metroid"/>
-</p>
+</td>
+<td width="32%" align="center">
+
+<img src="https://media1.tenor.com/m/II63zmSFM9cAAAAC/metroid-crocomire.gif" width="160" alt="Metroid"/>
+
+</td>
+</tr>
+</table>
 
 ---
+
+<table>
+<tr>
+<td width="32%" align="center">
+
+<img src="https://media1.tenor.com/m/hLRKCcMAKDEAAAAC/empel-pixel.gif" width="160" alt="Wrestling"/>
+
+</td>
+<td width="68%">
+
 ## 🧑‍💻 Tech Stack
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -55,29 +94,32 @@ I'm a Computer Science graduate from **UBC** with  _B.Sc in Computer Science_, a
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
+
 **Frameworks & Libraries**  
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
 **Tools & Platforms**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-555?logo=claude)
-![OpenClaws/Open Hands](https://img.shields.io/badge/OpenClaw-Plugin-orange%22)
+![Open Hands](https://img.shields.io/badge/OpenClaw-Plugin-orange)
+
+</td>
+</tr>
+</table>
+
 ---
 ## 📂 Featured Repositories
 Here are a few public projects I've worked on:
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [`Coursify-AI`](https://github.com/dhairyab0069/Coursify-AI) | Year-long academic capstone project using AI for educational content generation  | HTML, JavaScript |
+| [`Coursify-AI`](https://github.com/dhairyab0069/Coursify-AI) | Year-long academic capstone project using AI for educational content generation | HTML, JavaScript |
 | [`Q-Clicker`](https://github.com/dhairyab0069/Q-Clicker) | A classroom quiz tool enabling live participation via PHP backend | PHP, HTML, JavaScript |
 | [`StreetFighter_DiscussionForum`](https://github.com/dhairyab0069/StreetFighter_DiscussionForum) | A themed discussion board built for COSC360 | HTML, CSS, PHP |
-
-<p align="center">
-  <img src="https://media1.tenor.com/m/hLRKCcMAKDEAAAAC/empel-pixel.gif" height="130" alt="Wrestling"/>
-</p>
 
 ---
 _Transmuting one pixel, traversing one tree, and eliminating one bug at a time._
