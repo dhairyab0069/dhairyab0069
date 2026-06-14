@@ -21,7 +21,7 @@ Welcome to the curious corner of my GitHub.
 <td width="68%">
 
 ### 🧠 Who Am I?
-I'm a Computer Science graduate from **UBC** with _B.Sc in Computer Science_, and a _Masters of Science in Computer Science_ Student at **Northeastern University** driven by curiosity and problem-solving. My interests span **AI**, **image processing**, and applying theory to solve real-world challenges.
+I'm a Computer Science graduate from **UBC** with _B.Sc in Computer Science_, and a _Masters of Science in Computer Science_ Student at **Northeastern University** driven by curiosity and problem-solving. My interests span **Video Understanding**, **Game Development**, and applying theory to solve real-world challenges.
 
 </td>
 <td width="32%" align="center">
