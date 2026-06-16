@@ -63,6 +63,7 @@ I'm a Computer Science graduate from **UBC** with _B.Sc in Computer Science_, an
 ### 🌱 Would Love to Explore!
 - Shape analysis, 3D geometry, and surface reconstruction
 - Quantum computing fundamentals
+- AlphaFold
 
 </td>
 <td width="32%" align="center">
