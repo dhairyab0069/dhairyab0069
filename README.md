@@ -124,7 +124,7 @@ Here are a few public projects I've worked on:
 | [`Q-Clicker`](https://github.com/dhairyab0069/Q-Clicker) | A classroom quiz tool enabling live participation via PHP backend | PHP, HTML, JavaScript | None
 
 ---
-_Transmuting one pixel, traversing one tree, and eliminating one bug at a time.(well ...... even idk about this , dont think about this too deep lol)
+_Transmuting one pixel, traversing one tree, and eliminating one bug at a time.
 _
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E97,100:6300FF&height=120&section=footer"/>
