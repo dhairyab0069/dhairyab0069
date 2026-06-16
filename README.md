@@ -21,7 +21,7 @@ Welcome to the fun(and maybe annoying?) part of journey where I showcase my idea
 <td width="68%">
 
 ### 🧠 Who Am I?
-I'm a Computer Science graduate from **UBC** with _B.Sc in Computer Science_, and a _Masters of Science in Computer Science_ Student at **Northeastern University** driven by curiosity and problem-solving. My interests span **Video Understanding**, **Game Development**,**Computer Architecture** (okay i maybe do love to dabble into many things at once) and applying theory to solve real-world challenges.
+I'm a Computer Science graduate from **UBC** with _B.Sc in Computer Science_, and currently a _Masters of Science in Computer Science_ Student at **Northeastern University** driven by curiosity and problem-solving. My interests span **Video Understanding**, **Game Development**,**Computer Architecture** (okay i maybe do love to dabble into many things at once) and applying theory to solve real-world challenges.
 
 </td>
 <td width="32%" align="center">
