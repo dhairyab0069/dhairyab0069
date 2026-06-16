@@ -10,7 +10,7 @@
 
 ## Hi there 👋 
 **I'm Dhairya Bhatia**</br>
-Welcome to the curious corner of my GitHub.
+Welcome to the fun(and maybe annoying?) part of journey where I showcase my ideas and improve my skills!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dhairyanbhatia/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bhatiadhairya19@gmail.com)
 
@@ -115,11 +115,13 @@ I'm a Computer Science graduate from **UBC** with _B.Sc in Computer Science_, an
 ---
 ## 📂 Featured Repositories
 Here are a few public projects I've worked on:
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [`Coursify-AI`](https://github.com/dhairyab0069/Coursify-AI) | Year-long academic capstone project using AI for educational content generation | HTML, JavaScript |
-| [`Q-Clicker`](https://github.com/dhairyab0069/Q-Clicker) | A classroom quiz tool enabling live participation via PHP backend | PHP, HTML, JavaScript |
-| [`StreetFighter_DiscussionForum`](https://github.com/dhairyab0069/StreetFighter_DiscussionForum) | A themed discussion board built for COSC360 | HTML, CSS, PHP |
+| Project | Description | Tech Stack | Collaborations with
+|---------|-------------|------------|------------|
+| [`Coursify-AI`](https://github.com/dhairyab0069/Coursify-AI) | Year-long academic capstone project using AI for educational content generation | HTML, JavaScript |Gurbir Amrit, Boluya, Harshimar Singh, Vinu |
+| [`calendar-app`](https://github.com/dhairyab0069/calendar-app) | A Calendar Application orginally designed as a classroom project | Swing, Java | Krish Nagaral(blanq-one)
+| [`engine-dev`](https://github.com/prjktescalion/engine-dev) | Implementing a game engine + editor | Rust, nightly, Game Dev | Kushagra Srivastava, Team Escalion (suobset)
+
+| [`Q-Clicker`](https://github.com/dhairyab0069/Q-Clicker) | A classroom quiz tool enabling live participation via PHP backend | PHP, HTML, JavaScript | None
 
 ---
 _Transmuting one pixel, traversing one tree, and eliminating one bug at a time._
