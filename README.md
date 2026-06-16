@@ -119,7 +119,7 @@ Here are a few public projects I've worked on:
 |---------|-------------|------------|------------|
 | [`Coursify-AI`](https://github.com/dhairyab0069/Coursify-AI) | Year-long academic capstone project using AI for educational content generation | HTML, JavaScript |Gurbir Amrit, Boluya, Harshimar Singh, Vinu |
 | [`calendar-app`](https://github.com/dhairyab0069/calendar-app) | A Calendar Application orginally designed as a classroom project | Swing, Java | Krish Nagaral(blanq-one)
-| [`engine-dev`](https://github.com/prjktescalion/engine-dev) | Implementing a game engine + editor | Rust, nightly, Game Dev | Kushagra Srivastava (suobset), Team Escalion 
+| [`engine-dev(WIP)`](https://github.com/prjktescalion/engine-dev) | Implementing a game engine + editor | Rust, nightly, Game Dev | Kushagra Srivastava (suobset), Team Escalion 
 | [`Q-Clicker`](https://github.com/dhairyab0069/Q-Clicker) | A classroom quiz tool enabling live participation via PHP backend | PHP, HTML, JavaScript | None
 
 ---
