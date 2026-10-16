@@ -10,7 +10,7 @@
 
 ## Hi there 👋 
 **I'm Dhairya Bhatia**</br>
-Welcome to the fun(and maybe annoying?) part of journey where I showcase my ideas and improve my skills!
+Welcome to the fun part of journey where I showcase my ideas and improve my skills!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dhairyanbhatia/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bhatiadhairya19@gmail.com)
 
@@ -21,7 +21,7 @@ Welcome to the fun(and maybe annoying?) part of journey where I showcase my idea
 <td width="68%">
 
 ### 🧠 Who Am I?
-I'm a Computer Science graduate from **UBC** with _B.Sc in Computer Science_, and currently a _Masters of Science in Computer Science_ Student at **Northeastern University** driven by curiosity and problem-solving. My interests span **Video Understanding**, **Game Development**,**Computer Architecture** (okay i maybe do love to dabble into many things at once) and applying theory to solve real-world challenges.
+I'm a Computer Science graduate from **UBC** with _B.Sc in Computer Science_, and currently a _Masters of Science in Computer Science_ Student at **Northeastern University** driven by curiosity and problem-solving. My interests span **Video Understanding**, **Game Development**,**Computer Architecture** and applying theory to solve real-world challenges.
 
 </td>
 <td width="32%" align="center">
