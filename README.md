@@ -171,6 +171,14 @@ A Windows XP-style taskbar and Start menu for macOS, with iOS-style desktop fold
 </table>
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dhairyab0069&show_icons=true&rank_icon=level&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=FF2E97&icon_color=6300FF&text_color=c9d1d9&ring_color=FF2E97" alt="GitHub stats with rank grade"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhairyab0069&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=FF2E97&text_color=c9d1d9" alt="Top languages"/>
+</p>
+
+---
 _Transmuting one pixel, traversing one tree, and eliminating one bug at a time._
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E97,100:6300FF&height=120&section=footer"/>
