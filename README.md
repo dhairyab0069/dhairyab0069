@@ -64,7 +64,6 @@ I'm a Computer Science graduate from **UBC** with _B.Sc in Computer Science_, an
 ### 🌱 Would Love to Explore!
 - Shape analysis, 3D geometry, and surface reconstruction
 - Quantum computing fundamentals
-- 
 
 </td>
 <td width="32%" align="center">
@@ -96,17 +95,20 @@ I'm a Computer Science graduate from **UBC** with _B.Sc in Computer Science_, an
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 
 **Frameworks & Libraries**  
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
 **Tools & Platforms**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![SLURM](https://img.shields.io/badge/SLURM%20%2F%20HPC-1F3A5F?style=flat-square)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-555?logo=claude)
 ![Open Hands](https://img.shields.io/badge/OpenClaw-Plugin-orange)
 
@@ -115,14 +117,58 @@ I'm a Computer Science graduate from **UBC** with _B.Sc in Computer Science_, an
 </table>
 
 ---
-## 📂 Featured Repositories
-Here are a few public projects I've worked on:
-| Project | Description | Tech Stack | Collaborations with
-|---------|-------------|------------|------------|
-| [`Coursify-AI`](https://github.com/dhairyab0069/Coursify-AI) | Year-long academic capstone project using AI for educational content generation | HTML, JavaScript |Gurbir Amrit(@r3mythify), Boluya, Harshimar Singh, Vinu(@vinui409) |
-| [`calendar-app`](https://github.com/dhairyab0069/calendar-app) | A Calendar Application orginally designed as a classroom project | Swing, Java | Krish Nagaral(blanq-one)
-| [`engine-dev(WIP)`](https://github.com/prjktescalion/engine-dev) | Implementing a game engine + editor | Rust, nightly, Game Dev | Kushagra Srivastava (suobset), Team Escalion 
-| [`Q-Clicker`](https://github.com/dhairyab0069/Q-Clicker) | A classroom quiz tool enabling live participation via PHP backend | PHP, HTML, JavaScript | None
+## 🧪 Machine Learning & Research
+
+| Project | What it is | Highlights | Stack |
+|---------|------------|------------|-------|
+| [**MotionBlind**](https://arxiv.org/abs/2609.09528) | Contrastive benchmark probing whether Video-LLMs really understand motion (ACLab, co-first author) | Best open model reaches 11.7% instance accuracy vs 91.3% for humans; under review at a NeurIPS 2026 workshop | PyTorch, VLMs, SLURM |
+| [`ecg-diagnostic-classification-ptbxl`](https://github.com/dhairyab0069/ecg-diagnostic-classification-ptbxl) | 1D ResNet for multi-label diagnosis of 12-lead ECGs, plus a segment-shuffle probe asking at what timescale order matters | 0.922 macro AUROC over 3 seeds; diagnoses ignore order above 1 s but need the order within each beat | PyTorch, SLURM |
+| [`nyc-taxi-duration-tip-prediction`](https://github.com/dhairyab0069/nyc-taxi-duration-tip-prediction) | Trip-duration regression and tip classification on 1.5M NYC taxi trips, tested on the following month | LightGBM cuts MAE 35% vs a route-median baseline (2.77 min, R² 0.84); leakage checks enforced in tests | LightGBM, scikit-learn, PyTorch |
+| [`miprovsrmipro`](https://github.com/dhairyab0069/miprovsrmipro) *(WIP)* | Resource-adaptive prompt optimization for multi-agent LLM systems | Builds on MIPROv2 | Python, LLMs |
+| [`pytorch-matlab-integrated-CV-tool`](https://github.com/dhairyab0069/pytorch-matlab-integrated-CV-tool) *(WIP)* | Interactive image-editing platform combining PyTorch and MATLAB vision | | PyTorch, MATLAB |
+
+## 🛠️ Software Engineering
+
+| Project | What it is | Stack | Collaborations with |
+|---------|------------|-------|---------------------|
+| [`himawari-mac`](https://github.com/dhairyab0069/himawari-mac) | Live video wallpaper for macOS that turns into your music: animated album art, retro hi-fi gear, a spinning CD | Swift | |
+| [`engine-dev (WIP)`](https://github.com/prjktescalion/engine-dev) | Game engine and editor | Rust (nightly) | Kushagra Srivastava (suobset), Team Escalion |
+| [`abiogenesis`](https://github.com/dhairyab0069/abiogenesis) | Simulation of life arising from non-living matter, shipped as a single self-contained binary | Rust | |
+| [`Coursify-AI`](https://github.com/dhairyab0069/Coursify-AI) | Year-long capstone using AI to generate educational content | HTML, JavaScript | Gurbir Amrit (@r3mythify), Boluya, Harshimar Singh, Vinu (@vinui409) |
+| [`calendar-app`](https://github.com/dhairyab0069/calendar-app) | Calendar application built for CS5010 | Java, Swing | Krish Nagaral (blanq-one) |
+| [`step-extracter-CAD`](https://github.com/dhairyab0069/step-extracter-CAD) *(WIP)* | Extracts geometric features from STEP, IGES and STL files | Python, pythonOCC | |
+| [`Q-Clicker`](https://github.com/dhairyab0069/Q-Clicker) | Classroom quiz tool for live participation | PHP, HTML, JavaScript | |
+
+## 💖 Pet Favourites
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### [NeXTcube Terminal](https://github.com/dhairyab0069/nextcube-terminal)
+A NeXTSTEP-style virtual Unix shell with ~100 commands, a 5-flag reverse-engineering CTF and a hidden kernel dungeon. Runs on my [website](https://dhairyab0069.github.io).
+
+`JavaScript` `ES modules` `no build step`
+
+</td>
+<td width="33%" valign="top">
+
+### [DepDeck](https://github.com/dhairyab0069/DepDeck)
+A macOS menu bar app that keeps Homebrew, global npm and cargo packages in check, with a badge for anything outdated or deprecated.
+
+`Swift` `macOS`
+
+</td>
+<td width="33%" valign="top">
+
+### [Desktop Shell](https://github.com/dhairyab0069/desktop-shell-mac)
+A Windows XP-style taskbar and Start menu for macOS, with iOS-style desktop folders and a glassy widget panel. Spun out of Himawari.
+
+`Swift` `macOS`
+
+</td>
+</tr>
+</table>
 
 ---
 _Transmuting one pixel, traversing one tree, and eliminating one bug at a time._
