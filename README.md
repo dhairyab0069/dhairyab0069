@@ -121,7 +121,7 @@ I'm a Computer Science graduate from **UBC** with _B.Sc in Computer Science_, an
 
 | Project | What it is | Highlights | Stack |
 |---------|------------|------------|-------|
-| [**MotionBlind**](https://arxiv.org/abs/2609.09528) | Contrastive benchmark probing whether Video-LLMs really understand motion (ACLab, co-first author) | Best open model reaches 11.7% instance accuracy vs 91.3% for humans; under review at a NeurIPS 2026 workshop | PyTorch, VLMs, SLURM |
+| [**MotionBlind**](https://arxiv.org/abs/2609.09528) | Contrastive benchmark probing whether Video-LLMs really understand motion (ACLab, co-first author) | Best open model reaches 11.7% instance accuracy vs 91.3% for humans | PyTorch, VLMs, SLURM |
 | [`ecg-diagnostic-classification-ptbxl`](https://github.com/dhairyab0069/ecg-diagnostic-classification-ptbxl) | 1D ResNet for multi-label diagnosis of 12-lead ECGs, plus a segment-shuffle probe asking at what timescale order matters | 0.922 macro AUROC over 3 seeds; diagnoses ignore order above 1 s but need the order within each beat | PyTorch, SLURM |
 | [`nyc-taxi-duration-tip-prediction`](https://github.com/dhairyab0069/nyc-taxi-duration-tip-prediction) | Trip-duration regression and tip classification on 1.5M NYC taxi trips, tested on the following month | LightGBM cuts MAE 35% vs a route-median baseline (2.77 min, R² 0.84); leakage checks enforced in tests | LightGBM, scikit-learn, PyTorch |
 | [`miprovsrmipro`](https://github.com/dhairyab0069/miprovsrmipro) *(WIP)* | Resource-adaptive prompt optimization for multi-agent LLM systems | Builds on MIPROv2 | Python, LLMs |
