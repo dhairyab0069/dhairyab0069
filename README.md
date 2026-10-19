@@ -132,6 +132,7 @@ I'm a Computer Science graduate from **UBC** with _B.Sc in Computer Science_, an
 | Project | What it is | Stack | Collaborations with |
 |---------|------------|-------|---------------------|
 | [`himawari-mac`](https://github.com/dhairyab0069/himawari-mac) | Live video wallpaper for macOS that turns into your music: animated album art, retro hi-fi gear, a spinning CD | Swift | |
+| [`Atlas-Mobile`](https://github.com/dhairyab0069/Atlas-Mobile) | Gym progress tracker (check-ins, lift journal, calorie diary, leaderboard), rebuilt natively for iOS and Android from our UBC COSC 341 Java prototype; both apps run one shared test spec | Swift, SwiftUI, Kotlin, Jetpack Compose | Original app with @Caps1d, @MehulRaisingh, @chawla971 |
 | [`engine-dev (WIP)`](https://github.com/prjktescalion/engine-dev) | Game engine and editor | Rust (nightly) | Kushagra Srivastava (suobset), Team Escalion |
 | [`abiogenesis`](https://github.com/dhairyab0069/abiogenesis) | Simulation of life arising from non-living matter, shipped as a single self-contained binary | Rust | |
 | [`Coursify-AI`](https://github.com/dhairyab0069/Coursify-AI) | Year-long capstone using AI to generate educational content | HTML, JavaScript | Gurbir Amrit (@r3mythify), Boluya, Harshimar Singh, Vinu (@vinui409) |
